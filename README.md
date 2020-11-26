@@ -1,5 +1,8 @@
 ## 介绍
-[![](https://img.shields.io/badge/%E8%B6%85%E6%98%9F-%E8%87%AA%E5%8A%A8%E7%AD%BE%E5%88%B0-orange?link=https://www.choaoxing.com&link=https://github.com/Closty/chaoxing)](https://github.com/Closty/chaoxing)
+[![](https://img.shields.io/badge/%E8%B6%85%E6%98%9F-%E8%87%AA%E5%8A%A8%E7%AD%BE%E5%88%B0-orange?link=https://www.choaoxing.com&link=https://github.com/Closty/chaoxing)](https://github.com/Closty/pull
+作者：狗三高
+https://www.bilibili.com/read/cv5795880?from=search
+出处： bilibili)
 [![](https://img.shields.io/badge/by-%E7%93%B6%E5%AD%90-green?link=https://www.clost.net)](https://www.clost.net/default/871.html)
 ![chaoxing](https://github.com/Closty/chaoxing/workflows/chaoxing/badge.svg)
 [![HitCount](http://hits.dwyl.com/closty/chaoxing.svg)](http://hits.dwyl.com/closty/chaoxing)
@@ -18,7 +21,7 @@
 2、基于server酱使得签到成功时会将签到信息发送至你的微信。<br>
 2、无需挂在任何服务器上，只需要点几下，让github自动为你签到。<br>
 3、使用强大的GitHub actions功能，实现无服务器实时监控您的学习通签到。<br>
-4、无需掌握任何编程知识，强大的后端后端已做好，您仅需点击几下。
+4、无需掌握任何编程知识，强大的后端后端已做好，您仅需点击几上。
 
 
 
